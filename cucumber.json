@@ -1,0 +1,288 @@
+[
+  {
+    "uri": "features/test.feature",
+    "id": "find-the-yahoo-website",
+    "keyword": "Feature",
+    "name": "Find the Yahoo Website",
+    "description": "",
+    "line": 1,
+    "elements": [
+      {
+        "id": "find-the-yahoo-website;search-a-website-in-google",
+        "keyword": "Scenario",
+        "name": "Search a website in google",
+        "description": "",
+        "line": 2,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the Google homepage",
+            "line": 3,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:2"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1760717306
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I will search for \"yahoo\"",
+            "line": 4,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 370649726
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I will wait for 10 seconds",
+            "line": 5,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10004507667
+            }
+          }
+        ]
+      },
+      {
+        "id": "find-the-yahoo-website;search-a-website-in-google2",
+        "keyword": "Scenario",
+        "name": "Search a website in google2",
+        "description": "",
+        "line": 7,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the Google homepage",
+            "line": 8,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:2"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 200504584
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I will search for \"yahoo\"",
+            "line": 9,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 329298838
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I will wait for 10 seconds",
+            "line": 10,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10002325989
+            }
+          }
+        ]
+      },
+      {
+        "id": "find-the-yahoo-website;search-a-website-in-google3",
+        "keyword": "Scenario",
+        "name": "Search a website in google3",
+        "description": "",
+        "line": 12,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the Google homepage",
+            "line": 13,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:2"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 178527065
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I will search for \"yahoo\"",
+            "line": 14,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 335250534
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I will wait for 10 seconds",
+            "line": 15,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10004884519
+            }
+          }
+        ]
+      },
+      {
+        "id": "find-the-yahoo-website;search-a-website-in-google4",
+        "keyword": "Scenario",
+        "name": "Search a website in google4",
+        "description": "",
+        "line": 17,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the Google homepage",
+            "line": 18,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:2"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 208443611
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I will search for \"yahoo\"",
+            "line": 19,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 337787388
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I will wait for 10 seconds",
+            "line": 20,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10003145840
+            }
+          }
+        ]
+      },
+      {
+        "id": "find-the-yahoo-website;search-a-website-in-google5",
+        "keyword": "Scenario",
+        "name": "Search a website in google5",
+        "description": "",
+        "line": 22,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the Google homepage",
+            "line": 23,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:2"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 178328917
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I will search for \"yahoo\"",
+            "line": 24,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 339928898
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I will wait for 10 seconds",
+            "line": 25,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10001787763
+            }
+          }
+        ]
+      },
+      {
+        "id": "find-the-yahoo-website;search-a-website-in-google6",
+        "keyword": "Scenario",
+        "name": "Search a website in google6",
+        "description": "",
+        "line": 27,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the Google homepage",
+            "line": 28,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:2"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 182768883
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I will search for \"yahoo\"",
+            "line": 29,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 339373175
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I will wait for 10 seconds",
+            "line": 30,
+            "match": {
+              "location": "features/step_definitions/test_steps.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10003319692
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
